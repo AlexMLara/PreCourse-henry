@@ -1,2 +1,2 @@
-# PreCourse-henry
-Este es un repositorio de prueba de Precourse modulo2
+Alex Lara
+este proyecto es una prueba de como crear un repositorio y como clonar a mi repositorio local
